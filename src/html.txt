@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="/images/zomoto logo.png">
+	<title>Delivery Restaurants in Chennai</title>
+	<link rel="stylesheet" href="/index.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+	<!--Header-->
+	<header>
+
+		<nav>
+			<div class="icon">
+				<img src="/images/logo.png" alt="">
+			</div>
+			<div class="search_box">
+				<span class="fa fa-search"></span>
+				<input type="search" placeholder="search...">
+			</div>
+			<ol>
+				<li><a href="/login.html">Login</a></li>
+				<li><a href="">Signin</a></li>
+			</ol>
+		</nav>
+
+	</header>
+
+	<!--Header End-->
+
+
+
+	<div class="" style="padding: 0px 30px;">
+		<h6>Home / India / Chennai</h6>
+	</div>
+	<br>
+	<br>
+
+	<!--Three Menu-->
+
+	<div class="top">
+		<div class="bike">
+			<div>
+				<img src="/images/bike logo.png" alt="" width="">
+			</div>
+			<div>
+				<h5>Delivery</h5>
+			</div>
+		</div>
+		<div class="bike1" style="padding: 0px 30px;">
+			<div>
+				<img src="/images/bottle.png" alt="" width="">
+			</div>
+			<div>
+				<h5>Dining Out</h5>
+			</div>
+		</div>
+		<div class="bike2" style="padding: 0px 0px;">
+			<div>
+				<img src="/images/plate.png" alt="" width="">
+			</div>
+			<div>
+				<h5>Nightlife</h5>
+			</div>
+		</div>
+	</div>
+
+	<!--Three Menu End-->
+	<br>
+
+	<hr style="color: #f3f3f3;">
+	<br>
+
+	<!--Button Menu-->
+
+	<div class="symbol">
+		<button>&#8633;&nbsp;Filters</button>
+		<button>Rating: 4.0+</button>
+		<button>Pure Veg</button>
+		<select name="" id="">
+			<option value="">
+				Cuisines</option>
+			<option value="">
+				Arabian</option>
+			<option value="">
+				Australia</option>
+			<option value="">
+				England</option>
+			<option value="">
+				Germany</option>
+			<option value="">
+				India</option>
+			<option value="">
+				South</option>
+		</select>
+	</div>
+
+	<!--Button Menu End-->
+	<br>
+	<br>
+
+	<!--First Order-->
+
+	<div class="middle">
+		<div>
+			<h1>Inspiration for your first order</h1>
+		</div>
+		<div class="images">
+			<div>
+				<img src="/images/biriyani.png" alt="">
+				<h4>Biriyani</h4>
+			</div>
+			<div>
+				<img src="/images/pizza.png" alt="">
+				<h4>Pizza</h4>
+			</div>
+			<div>
+				<img src="/images/fired rice.png" alt="">
+				<h4>Fired rice</h4>
+			</div>
+			<div>
+				<img src="/images/chicken.png" alt="">
+				<h4>Chicken</h4>
+			</div>
+			<div>
+				<img src="/images/burger.png" alt="">
+				<h4>Burger</h4>
+			</div>
+			<div>
+				<img src="/images/rolls.png" alt="">
+				<h4>Rolls</h4>
+			</div>
+		</div>
+	</div>
+
+	<!--Firse Order End-->
+
+	<!--Brand Name-->
+
+	<div class="brands">
+		<div>
+			<h1>Top brands for you</h1>
+		</div>
+		<div class="images1">
+			<div>
+				<img src="/images/kfc1.png" alt="">
+				<h4>KFC</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 50px;">17 min</h5>
+			</div>
+			<div>
+				<img src="/images/domino.png" alt="">
+				<h4 style="padding: 0px 20px;">Domino's Pizza</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 50px;">29 min</h5>
+			</div>
+			<div>
+				<img src="/images/mc.png" alt="">
+				<h4 style="padding: 0px 30px;">McDonald's</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 60px;">23 min</h5>
+			</div>
+			<div>
+				<img src="/images/thalappakatti.png" alt="">
+				<h4>Dindigul</h4>
+				<h4 style="padding: 0px 30px;">Thalappakatti</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 60px;">25 min</h5>
+			</div>
+			<div>
+				<img src="/images/burger king.png" alt="">
+				<h4>Burger King</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 60px;">17 min</h5>
+			</div>
+			<div>
+				<img src="/images/vasanta.png" alt="">
+				<h4 style="padding: 0px 30px;">Namma Veedu</h4>
+				<h4 style="padding: 0px 20px;">Vasanta Bhavan</h4>
+				<h5 style="color: #909090; font-weight: 100px;
+				font-size: small;
+				letter-spacing: 0.5px; padding: 10px 60px;">17 min</h5>
+			</div>
+		</div>
+	</div>
+
+	<!--Brand Name End-->
+
+	<!--Chennai-->
+
+	<div class="chennai">
+		<div>
+			<h1>Best Food in Chennai</h1>
+		</div>
+		<div class="restaurants">
+			<div class="important">
+				<img src="/images/salemrr.png" alt="">
+				<div class="text-block">
+
+					<span
+						style="background-color: red;
+					position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+						offer</span>
+				</div>
+				<div class="salemrr">
+					<p>Kadai chicken</p>
+					<p
+						style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+						4.3&#9733;</p>
+				</div>
+				<div class="salemrr1">
+
+					<p>Biryani, Chinese, Nor...</p>
+					<p style="margin-left: 70px;">&#8377;300 for one</p>
+				</div>
+				<span
+					style="padding: 10px 0px 0px 280px; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+					min</span>
+				<br>
+				<br>
+
+				<hr style="width: 330px; margin-left: 20px;">
+				<br>
+				<div class="new">
+					<img src="/images/max.png" alt="">
+
+					<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+						safety measures to ensure <br> your food is safe</p>
+				</div>
+			</div>
+			<div>
+				<img src="/images/kfc chicken.png" alt="">
+				<div class="text-block">
+					<span
+						style="background-color: red;
+					position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+						offer</span>
+				</div>
+				<div class="kfc-chicken">
+					<p>KFC Chicken</p>
+					<p
+						style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+						4.3&#9733;</p>
+				</div>
+				<div class="kfc-chicken1">
+
+					<p>Biryani, Chinese, Nor...</p>
+					<p style="margin-left: 70px;">&#8377;300 for one</p>
+				</div>
+				<span
+					style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+					min</span>
+				<br>
+				<br>
+
+				<hr style="width: 330px; margin-left: 20px;">
+				<br>
+
+				<div class="new">
+					<img src="/images/max.png" alt="">
+					<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+						safety measures to ensure <br> your food is safe</p>
+				</div>
+
+			</div>
+			<div>
+				<img src="/images/salem.png" alt="">
+				<div class="text-block">
+					<span
+						style="background-color: red;
+				position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+						offer</span>
+				</div>
+				<div class="salem">
+					<p>Anjappar</p>
+					<p
+						style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+						4.3&#9733;</p>
+				</div>
+				<div class="salem1">
+					<p>Biryani, Chinese, Nor...</p>
+					<p style="margin-left: 70px;">&#8377;300 for one</p>
+				</div>
+				<span
+					style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+					min</span>
+
+				<br>
+				<br>
+
+				<hr style="width: 330px; margin-left: 20px;">
+				<br>
+
+				<div class="new">
+					<img src="/images/max.png" alt="">
+					<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+						safety measures to ensure <br> your food is safe</p>
+				</div>
+
+
+			</div>
+
+		</div>
+		<br>
+		<br>
+
+		<div class="chennai">
+
+			<div class="restaurants">
+				<div>
+					<img src="/images/Biriyani chennai.png" alt="">
+					<div class="text-block">
+
+						<span
+							style="background-color: red;
+							position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="salemrr">
+						<p>Salem Biriyani</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="salemrr1">
+
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+					<div class="new">
+						<img src="/images/max.png" alt="">
+
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+				</div>
+				<div>
+					<img src="/images/domino pizza.png" alt="">
+					<div class="text-block">
+						<span
+							style="background-color: red;
+					position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="kfc-chicken">
+						<p>Domino pizza</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="kfc-chicken1">
+
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+
+					<div class="new">
+						<img src="/images/max.png" alt="">
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+
+				</div>
+				<div>
+					<img src="/images/ssweet.png" alt="">
+					<div class="text-block">
+						<span
+							style="background-color: red;
+							position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="salem">
+						<p>Sweet Ready</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="salem1">
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+
+					<div class="new">
+						<img src="/images/max.png" alt="">
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+
+		<div class="chennai">
+
+			<div class="restaurants">
+				<div>
+					<img src="/images/pizza hut.png" alt="">
+					<div class="text-block">
+
+						<span
+							style="background-color: red;
+							position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="salemrr">
+						<p>Pizza hut</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="salemrr1">
+
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+					<div class="new">
+						<img src="/images/max.png" alt="">
+
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+				</div>
+				<div>
+					<img src="/images/burger chennai.png" alt="">
+					<div class="text-block">
+						<span
+							style="background-color: red;
+					position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="kfc-chicken">
+						<p>Burger King</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="kfc-chicken1">
+
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+
+					<div class="new">
+						<img src="/images/max.png" alt="">
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+
+				</div>
+				<div>
+					<img src="/images/lize.png" alt="">
+					<div class="text-block">
+						<span
+							style="background-color: red;
+							position: absolute; margin: -30px 0px 0px 20px; font-family: Okra, Helvetica, sans-serif; font-size: 14px; background-color: #256fef; color: white; font-weight: 500; padding: 0px 6px;">50%
+							offer</span>
+					</div>
+					<div class="salem">
+						<p>Lize Restaurants</p>
+						<p
+							style="background-color: #267e3e; margin-left: 170px; padding: 0px 4px; color: white; font-weight: 0px;">
+							4.3&#9733;</p>
+					</div>
+					<div class="salem1">
+						<p>Biryani, Chinese, Nor...</p>
+						<p style="margin-left: 70px;">&#8377;300 for one</p>
+					</div>
+					<span
+						style="padding: 10px 0px 0px 280px ; font-size: 15px;font-weight: 200; color: #363636; margin-top: 20px;">30
+						min</span>
+
+					<br>
+					<br>
+
+					<hr style="width: 330px; margin-left: 20px;">
+					<br>
+
+					<div class="new">
+						<img src="/images/max.png" alt="">
+						<p style="margin: -5px 0px 0px 0px; font-size: 12px; color: rgb(105, 105, 105);">Follows all Max
+							safety measures to ensure <br> your food is safe</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<br>
+	<br>
+	<br>
+	<br>
+
+
+	<div class="end">
+		<div class="images2">
+			<div>
+				<h1>zomato</h1>
+			</div>
+			<div style="margin-left: 700px; display: flex;">
+				<button>India&#129171;</button>
+				<button style="margin-left: 10px;">&#127760;English&#129171;</button>
+			</div>
+		</div>
+
+		<div class="footer">
+			<div class="part1">
+				<h4>ABOUT ZOMATO</h4>
+				<ul>
+					<li>Who We Are</li>
+					<li>Blog</li>
+					<li>Work With Us</li>
+					<li>Investor Relations</li>
+					<li>Report Fraud</li>
+					<li>Press Kit</li>
+					<li>COntact Us</li>
+				</ul>
+			</div>
+
+			<div class="part2">
+				<h4>ZOMAVERSE</h4>
+				<ul>
+					<li>zomato</li>
+					<li>Blinkit</li>
+					<li>Feeling India</li>
+					<li>Investor Relations</li>
+					<li>Hyperpure</li>
+					<li>Zomaland</li>
+				</ul>
+			</div>
+
+			<div>
+				<div class="part2">
+					<h4>FOR RESTAURANTS</h4>
+					<ul>
+						<li>Partner With Us</li>
+						<li>Apps For you</li>			
+					</ul>
+				</div>
+
+				<div class="part2">
+
+					<h4>FOR ENTERPRISES</h4>
+					<ul>
+						<li>Zomato For Enterprise</li>
+						<li>Apps For you</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="part2">
+				<h4>LEARN MORE</h4>
+				<ul>
+					<li>Privacy</li>
+					<li>Security</li>
+					<li>Terms</li>
+					<li>Sitemap</li>
+				</ul>
+			</div>
+
+			<div class="part2">
+				<h4>Social Links</h4>
+				<div>
+					<ul class="socialmedia">
+						<span class="fa fa-linkedin"></span>
+						<span class="fa fa-instagram"></span>
+						<span class="fa fa-twitter"></span>
+						<span class="fa fa-youtube"></span>
+						<span class="fa fa-facebook"></span>
+					</ul>
+					<br>
+						<img src="/images/google.png" alt="" width="137px" height="40px">
+					<br>
+					<br>
+						<img src="/images/appstore.png" alt="" width="137px" height="40px">
+				</div>
+
+			</div>
+		</div>
+
+			<hr>
+			<br>
+
+				<p>2024 &#9400; Zomato<sup>TM</sup> Ltd. All rights reserved.</p>
+	</div>
+
+
+
+
+</body>
+
+</html>
